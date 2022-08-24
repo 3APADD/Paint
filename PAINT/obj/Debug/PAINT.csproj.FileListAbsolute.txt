@@ -1,0 +1,11 @@
+F:\Aртурка\WindowsFroms\PAINT\PAINT\bin\Debug\PAINT.exe.config
+F:\Aртурка\WindowsFroms\PAINT\PAINT\bin\Debug\PAINT.exe
+F:\Aртурка\WindowsFroms\PAINT\PAINT\bin\Debug\PAINT.pdb
+F:\Aртурка\WindowsFroms\PAINT\PAINT\obj\Debug\PAINT.csproj.AssemblyReference.cache
+F:\Aртурка\WindowsFroms\PAINT\PAINT\obj\Debug\PAINT.csproj.SuggestedBindingRedirects.cache
+F:\Aртурка\WindowsFroms\PAINT\PAINT\obj\Debug\PAINT.Form1.resources
+F:\Aртурка\WindowsFroms\PAINT\PAINT\obj\Debug\PAINT.Properties.Resources.resources
+F:\Aртурка\WindowsFroms\PAINT\PAINT\obj\Debug\PAINT.csproj.GenerateResource.cache
+F:\Aртурка\WindowsFroms\PAINT\PAINT\obj\Debug\PAINT.csproj.CoreCompileInputs.cache
+F:\Aртурка\WindowsFroms\PAINT\PAINT\obj\Debug\PAINT.exe
+F:\Aртурка\WindowsFroms\PAINT\PAINT\obj\Debug\PAINT.pdb
